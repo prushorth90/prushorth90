@@ -9,16 +9,13 @@ I am a Software Engineer with a May 2025 Master's graduate in Computer Science f
 
 Check out my [coding portfolio!](https://prushorth90.github.io)
 
-## About Me
-
-I'm also a tech coding content creator:
-
-- [YouTube](https://www.youtube.com/channel/UCgKFOz_KrMbmypWrawtzDQg)
-
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-prushorth-28215a263/)
+Tech Coding Creator: [YouTube](https://www.youtube.com/channel/UCgKFOz_KrMbmypWrawtzDQg)
 
+## Certifications: 
+[AWS Cloud Practioner](https://www.coursera.org/account/accomplishments/verify/AT098HL0D31O)
 # 💻 Tech Stack:
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
