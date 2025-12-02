@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Mani Prushorth</h1>
 
 # About Me 💫:
-I am a Software Engineer with a May 2025 Master's graduate in Computer Science from the University of Southern California. Passionate about Software Engineering, Full Stack Development, Data Science, AI and Machine Learning.
+I am a Software Engineer with a May 2025 Master's in Computer Science from the University of Southern California. Passionate about Software Engineering, Full Stack Development, Data Science, AI and Machine Learning.
 
 ## What I'm Up To 🚀 
 
