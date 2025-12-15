@@ -5,7 +5,7 @@ Software Engineer with a May 2025 Master's in Computer Science from the Universi
 
 ## What I'm Up To 🚀 
 
-- Exploring LLM RAG, Hugging Face, VectorDB, Weaviate, Agentic AI
+- Exploring LLM RAG, LangChain, Hugging Face, VectorDB, Pinecone, Weaviate, Agentic AI
 
 Check out my [coding portfolio!](https://prushorth90.github.io)
 
