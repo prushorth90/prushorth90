@@ -6,6 +6,7 @@ Software Engineer with a May 2025 Master's in Computer Science from the Universi
 ## What I'm Up To 🚀 
 
 - Trying to build my own LLMs to learn about pre training and post training phases. Checkout this repo: https://github.com/prushorth90/llm_playground
+- Tokenizers: BPE and TikToken from OpenAI 
 - Exploring LLM RAG, LangChain, Hugging Face, VectorDB, Pinecone, Weaviate, Agentic AI
 
 Check out my [coding portfolio!](https://prushorth90.github.io)
