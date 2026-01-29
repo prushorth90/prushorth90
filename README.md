@@ -17,7 +17,8 @@ Email: prushort@usc.edu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-prushorth-28215a263/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgKFOz_KrMbmypWrawtzDQg)
 
-## Certifications: 
+## Awards and Certifications: 
+[Sony Event Prize Award] https://www.facebook.com/UptonCourtGrammar/posts/staff-and-students-at-upton-court-grammar-school-held-their-annual-prize-giving-/834392590026138/
 [AWS Cloud Practioner](https://www.coursera.org/account/accomplishments/verify/AT098HL0D31O)
 # 💻 Tech Stack:
 Languages: 
