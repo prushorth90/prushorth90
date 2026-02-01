@@ -4,13 +4,12 @@
 Software Engineer with a May 2025 Master's in Computer Science from the University of Southern California. Passionate about Software Engineering, Object-Oriented Design, Full Stack Development, Data Science,Gen AI, AI and Machine Learning.
 
 ## What I'm Up To 🚀 
+- Build my own LLMs to learn about pre training and post training phases.
+- Checkout this repo: https://github.com/prushorth90/llm_playground
 
-- Trying to build my own LLMs to learn about pre training and post training phases. Checkout this repo: https://github.com/prushorth90/llm_playground
-- Tokenizers: BPE and TikToken from OpenAI
-- Transformer blocks with Multi head Self Attention and Feed Forward networks
-- Text generation using greedy, top k, top p and beam methods
-- instruction tuned QWEN models
-- Exploring LLM RAG, LangChain, Hugging Face, VectorDB, Pinecone, Weaviate, Agentic AI
+- Build a customer support chatbot
+- Checkout this repo: https://github.com/prushorth90/customer_support_rag_chatbot
+
 
 Check out my [coding portfolio!](https://prushorth90.github.io)
 
