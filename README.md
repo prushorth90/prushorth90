@@ -12,6 +12,7 @@ Software Engineer with a May 2025 Master's in Computer Science from the Universi
 
 - Building a ask the web agent like Perplexity for my agentic ai project
 - Checkout this repo https://github.com/prushorth90/ask_the_web_agent_agentic_ai
+  
 Check out my [coding portfolio!](https://prushorth90.github.io)
 
 
