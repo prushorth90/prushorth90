@@ -7,7 +7,7 @@ Software Engineer with a May 2025 Master's in Computer Science from the Universi
 - Build my own LLMs to learn about pre training and post training phases.
 - Checkout this repo: https://github.com/prushorth90/llm_playground
 
-- Build a customer support chatbot
+- Build a customer support rag chatbot
 - Checkout this repo: https://github.com/prushorth90/customer_support_rag_chatbot
 
 - Building a ask the web agent like Perplexity for my agentic ai project
