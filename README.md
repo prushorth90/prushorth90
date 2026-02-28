@@ -12,15 +12,16 @@ Software Engineer with a May 2025 Master's in Computer Science from the Universi
 
 - Building a ask the web agent like Perplexity for my agentic ai project
 - Checkout this repo https://github.com/prushorth90/ask_the_web_agent_agentic_ai
-  
 Check out my [coding portfolio!](https://prushorth90.github.io)
 
 
 ## 🌐 Connect with me:
 Email: prushort@usc.edu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-prushorth-28215a263/)
+
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgKFOz_KrMbmypWrawtzDQg)
 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@maniprush)
 ## Awards and Certifications: 
 [Sony Event Prize Award](https://www.facebook.com/UptonCourtGrammar/posts/staff-and-students-at-upton-court-grammar-school-held-their-annual-prize-giving-/834392590026138/)
 [AWS Cloud Practioner](https://www.coursera.org/account/accomplishments/verify/AT098HL0D31O)
