@@ -26,7 +26,7 @@ Read about my Medium blogs for projects on
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@maniprush)
 
 - Recent blog: https://medium.com/@maniprush/can-github-copilot-planning-and-agent-mode-on-microsoft-vscode-improve-developer-experience-3ca577f893b5
-- 
+
 ## Awards and Certifications: 
 [Sony Event Prize Award](https://www.facebook.com/UptonCourtGrammar/posts/staff-and-students-at-upton-court-grammar-school-held-their-annual-prize-giving-/834392590026138/)
 [AWS Cloud Practioner](https://www.coursera.org/account/accomplishments/verify/AT098HL0D31O)
