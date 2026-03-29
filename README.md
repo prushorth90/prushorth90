@@ -17,7 +17,6 @@
 
 
 ## 🌐 Connect with me:
-Email: prushort@usc.edu
 
 Checkout my Linkedin [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-prushorth-28215a263/)
 
