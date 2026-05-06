@@ -5,6 +5,9 @@
 - Passionate about Software Engineering, Object-Oriented Design, Full Stack Development, Data Science,Gen AI, AI and Machine Learning.
 
 ## What I'm Up To 🚀 
+- Build my MCP server
+- Checkout:https://github.com/prushorth90/Starbucks_MCP_Server
+  
 - Build my own LLMs to learn about pre training and post training phases.
 - Checkout this repo: https://github.com/prushorth90/llm_playground
 
