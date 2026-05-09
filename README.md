@@ -10,7 +10,10 @@
 
 - Built AI Agent
 - Checkout: https://github.com/prushorth90/Starbucks_AI_Agent
-  
+
+- Built starbuck rag chatbot
+- checkout: https://github.com/prushorth90/starbucks_chatbot
+- 
 - Build my own LLMs to learn about pre training and post training phases.
 - Checkout this repo: https://github.com/prushorth90/llm_playground
 
