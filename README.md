@@ -7,6 +7,9 @@
 ## What I'm Up To 🚀 
 - Build my MCP server
 - Checkout:https://github.com/prushorth90/Starbucks_MCP_Server
+
+- Built AI Agent
+- Checkout: https://github.com/prushorth90/Starbucks_AI_Agent
   
 - Build my own LLMs to learn about pre training and post training phases.
 - Checkout this repo: https://github.com/prushorth90/llm_playground
