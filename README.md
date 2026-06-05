@@ -7,10 +7,7 @@
 ## What I'm Up To 🚀 
 - Build my Pinterst AI Board Planner using Agents and MCP Server 
 - Checkout:https://github.com/prushorth90/Pinterest_AI_Pinboard_Planner
-
-- Built AI Agent
-- Checkout: https://github.com/prushorth90/Starbucks_AI_Agent
-
+ 
 - Built starbuck rag chatbot
 - checkout: https://github.com/prushorth90/starbucks_chatbot
 
