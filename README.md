@@ -5,7 +5,7 @@
 - Passionate about Software Engineering, Object-Oriented Design, Full Stack Development, Data Science,Gen AI, AI and Machine Learning.
 
 ## What I'm Up To 🚀 
-- Build my Pinterst AI Board Planner using Agents and MCP Server 
+- Build my Pinterest AI Board Planner using Agents and MCP Server 
 - Checkout:https://github.com/prushorth90/Pinterest_AI_Pinboard_Planner
  
 - Built starbuck rag chatbot
