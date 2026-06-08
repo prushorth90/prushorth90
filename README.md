@@ -8,7 +8,7 @@
 - Build my Pinterest AI Board Planner using Agents and MCP Server 
 - Checkout:https://github.com/prushorth90/Pinterest_AI_Pinboard_Planner
  
-- Built starbuck rag chatbot
+- Built Starbuck rag chatbot
 - checkout: https://github.com/prushorth90/starbucks_chatbot
 
 - Build my own LLMs to learn about pre training and post training phases.
