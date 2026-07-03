@@ -5,12 +5,7 @@
 - Passionate about Software Engineering, Object-Oriented Design, Full Stack Development, Data Science,Gen AI, AI and Machine Learning.
 
 ## What I'm Up To 🚀 
-- Build my Pinterest AI Board Planner using Agents and MCP Server 
-- Checkout:https://github.com/prushorth90/Pinterest_AI_Pinboard_Planner
  
-- Built Starbuck rag chatbot
-- checkout: https://github.com/prushorth90/starbucks_chatbot
-
 - Build my own LLMs to learn about pre training and post training phases.
 - Checkout this repo: https://github.com/prushorth90/llm_playground
   
