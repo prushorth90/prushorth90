@@ -5,7 +5,8 @@
 - Passionate about Software Engineering, Object-Oriented Design, Full Stack Development, Data Science,Gen AI, AI and Machine Learning.
 
 ## What I'm Up To 🚀 
- 
+
+- Incident Report RAG which uses C#, .NET, Ollama, Aspire and OpenTelemetry 
 - Build my own LLMs to learn about pre training and post training phases.
 - Checkout this repo: https://github.com/prushorth90/llm_playground
   
