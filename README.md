@@ -6,9 +6,10 @@
 
 ## What I'm Up To 🚀 
 
-- Incident Report RAG which uses C#, .NET, Ollama, Azure, Aspire and OpenTelemetry 
+- Booking and Reservation System 
+- Check out this repo: https://github.com/prushorth90/booking-reservation 
 - Build my own LLMs to learn about pre training and post training phases.
-- Checkout this repo: https://github.com/prushorth90/llm_playground
+- Check out this repo: https://github.com/prushorth90/llm_playground
   
 
 - Check out my [coding portfolio!](https://prushorth90.github.io)
