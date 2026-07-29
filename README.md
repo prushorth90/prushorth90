@@ -6,6 +6,9 @@
 
 ## What I'm Up To 🚀 
 
+- Event and Outfit Recommender 
+- https://github.com/prushorth90/stylecast
+  
 - Booking and Reservation System 
 - Check out this repo: https://github.com/prushorth90/booking-reservation 
 - Build my own LLMs to learn about pre training and post training phases.
