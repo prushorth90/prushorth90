@@ -6,7 +6,7 @@
 
 ## What I'm Up To 🚀 
 
-- Event and Outfit Recommender 
+- Event and Outfit Recommender Web app
 - https://github.com/prushorth90/stylecast
   
 - Booking and Reservation System 
