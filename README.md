@@ -2,7 +2,7 @@
 
 # About Me 💫:
 - Software Engineer with a May 2025 Master's in Computer Science from the University of Southern California. 
-- Passionate about Software Engineering, Object-Oriented Design, Full Stack Development, Data Science,Agentic AI, AI and Machine Learning.
+- Passionate about Software Engineering, Object-Oriented Design, Full Stack Development, Data Science, Agentic AI, AI and Machine Learning.
 
 ## What I'm Up To 🚀 
 
