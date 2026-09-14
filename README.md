@@ -6,6 +6,10 @@
 
 ## What I'm Up To 🚀 
 
+- Mini AWS-SQS
+- https://github.com/prushorth90/mini-sqs
+
+
 - Event and Outfit Recommender Web app
 - https://github.com/prushorth90/stylecast
   
