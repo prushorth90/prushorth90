@@ -21,14 +21,14 @@
 - Check out this repo: https://github.com/prushorth90/booking-reservation
 
 
-- Check out my [coding portfolio!](https://prushorth90.github.io)
-
-
 ## 🌐 Connect with me:
 
-Checkout my Linkedin [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-prushorth-28215a263/) https://www.linkedin.com/in/mani-prushorth-28215a263/
 
-Checkout my Youtube videos on [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgKFOz_KrMbmypWrawtzDQg)
+Check out my [coding portfolio!](https://prushorth90.github.io)
+
+Check out my Linkedin [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-prushorth-28215a263/) https://www.linkedin.com/in/mani-prushorth-28215a263/
+
+Check out my Youtube videos on [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCgKFOz_KrMbmypWrawtzDQg)
 
 Read about my Medium blogs for projects on 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@maniprush)
