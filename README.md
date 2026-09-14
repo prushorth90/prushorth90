@@ -10,6 +10,10 @@
 - https://github.com/prushorth90/mini-sqs
 
 
+
+- Agentic AI FPL App 
+- https://github.com/prushorth90/premier_league_copilot
+  
 - Event and Outfit Recommender Web app
 - https://github.com/prushorth90/stylecast
   
