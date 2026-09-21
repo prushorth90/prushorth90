@@ -6,9 +6,11 @@
 
 ## What I'm Up To 🚀 
 
-- Mini AWS-SQS
+- Logger Analyzer
+- https://github.com/prushorth90/logger-analyzer
+- 
+- Mini AWS-SQS Message Queue
 - https://github.com/prushorth90/mini-sqs
-
 
 
 - Agentic AI FPL App 
