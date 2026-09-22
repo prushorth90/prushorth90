@@ -12,7 +12,6 @@
 - Mini AWS-SQS Message Queue
 - https://github.com/prushorth90/mini-sqs
 
-
 - Agentic AI FPL App 
 - https://github.com/prushorth90/premier_league_copilot
   
