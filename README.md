@@ -6,7 +6,7 @@
 
 ## What I'm Up To 🚀 
 
-- Logger Analyzer
+- Logger Analyzer App
 - https://github.com/prushorth90/logger-analyzer
   
 - Mini AWS-SQS Message Queue
