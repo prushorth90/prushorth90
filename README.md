@@ -8,7 +8,7 @@
 
 - ci/cd debugger tool
 - https://github.com/prushorth90/GitHubDeveloperDebugTool
-- 
+
 - Mini AWS-SQS Message Queue
 - https://github.com/prushorth90/mini-sqs
    
