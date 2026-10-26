@@ -5,21 +5,10 @@
 - Passionate about Software Engineering,  Web and Mobile Full Stack Development, Cloud and DevOps, Object-Oriented Design, Agentic AI,  Data Science, AI and Machine Learning.
 
 ## What I'm Up To 🚀 
-
-- Logger Analyzer App
-- https://github.com/prushorth90/logger-analyzer
-  
+ 
 - Mini AWS-SQS Message Queue
 - https://github.com/prushorth90/mini-sqs
-
-- Agentic AI FPL Web App 
-- https://github.com/prushorth90/premier_league_copilot
-  
-- Event and Outfit Recommender Web app
-- https://github.com/prushorth90/stylecast
-  
-- Booking and Reservation System 
-- Check out this repo: https://github.com/prushorth90/booking-reservation
+   
 
 
 ## 🌐 Connect with me:
