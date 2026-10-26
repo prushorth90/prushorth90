@@ -5,7 +5,10 @@
 - Passionate about Software Engineering,  Web and Mobile Full Stack Development, Cloud and DevOps, Object-Oriented Design, Agentic AI,  Data Science, AI and Machine Learning.
 
 ## What I'm Up To 🚀 
- 
+
+- ci/cd debugger tool
+- https://github.com/prushorth90/GitHubDeveloperDebugTool
+- 
 - Mini AWS-SQS Message Queue
 - https://github.com/prushorth90/mini-sqs
    
